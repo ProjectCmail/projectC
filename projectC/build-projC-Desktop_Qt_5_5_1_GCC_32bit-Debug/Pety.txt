@@ -1,0 +1,59 @@
+{
+	"User" : 
+	{
+		"CourceLevel" : 2,
+		"UserName" : "Pety",
+		"cources" : 
+		{
+			"0" : 
+			{
+				"Name" : "Filosofi",
+				"Progress" : 0,
+				"Status" : 0,
+				"tasks" : 
+				{
+					"0" : 
+					{
+						"0" : 
+						{
+							"Name" : "Write shpor",
+							"Notification" : 
+							{
+								"day" : 7,
+								"hour" : 9,
+								"minutes" : 16,
+								"month" : 4,
+								"year" : 116
+							},
+							"Progress" : 0,
+							"Status" : "in worck"
+						},
+						"1" : 
+						{
+							"Name" : "Write qqqqq",
+							"Notification" : 
+							{
+								"day" : 7,
+								"hour" : 9,
+								"minutes" : 16,
+								"month" : 4,
+								"year" : 116
+							},
+							"Progress" : 0,
+							"Status" : "in worck"
+						},
+						"Deadline" : 
+						{
+							"day" : 7,
+							"hour" : 9,
+							"minutes" : 16,
+							"month" : 4,
+							"year" : 116
+						},
+						"type" : "4Exam"
+					}
+				}
+			}
+		}
+	}
+}

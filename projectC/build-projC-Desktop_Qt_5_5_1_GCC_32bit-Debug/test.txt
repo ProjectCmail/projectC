@@ -1,0 +1,5 @@
+{
+	"age" : "21",
+	"encoding" : "UTF-8",
+	"name" : "Andry"
+}

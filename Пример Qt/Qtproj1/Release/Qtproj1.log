@@ -1,0 +1,13 @@
+﻿  Moc'ing MainWindow.h...
+  Uic'ing MainWindow.ui...
+  Rcc'ing qtproj1.qrc...
+RCC : warning : No resources in 'D:\╨Ш╤Б╤Е╨╛╨┤╨╜╨╕╨║_╨Ф╨╕╨┐╨╗╨╛╨╝\Qtproj1\qtproj1.qrc'.
+  
+  qrc_qtproj1.cpp
+  moc_MainWindow.cpp
+d:\исходник_диплом\qtproj1\generatedfiles\release\../../MainWindow.h(29): fatal error C1083: Cannot open include file: 'MainEntry.h': No such file or directory
+  main.cpp
+d:\исходник_диплом\qtproj1\MainWindow.h(29): fatal error C1083: Cannot open include file: 'MainEntry.h': No such file or directory
+  MainWindow.cpp
+d:\исходник_диплом\qtproj1\MainWindow.h(29): fatal error C1083: Cannot open include file: 'MainEntry.h': No such file or directory
+  Generating Code...

@@ -1,0 +1,30 @@
+﻿  MainWindow.cpp
+MainWindow.cpp(316): warning C4018: '<' : signed/unsigned mismatch
+MainWindow.cpp(429): warning C4018: '<' : signed/unsigned mismatch
+MainWindow.cpp(662): warning C4018: '<' : signed/unsigned mismatch
+MainWindow.cpp(689): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
+MainWindow.cpp(690): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdlib.h(824) : see declaration of '_splitpath'
+MainWindow.cpp(705): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
+MainWindow.cpp(707): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdlib.h(824) : see declaration of '_splitpath'
+MainWindow.cpp(735): warning C4018: '<' : signed/unsigned mismatch
+MainWindow.cpp(758): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
+MainWindow.cpp(759): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdlib.h(824) : see declaration of '_splitpath'
+MainWindow.cpp(803): warning C4018: '<' : signed/unsigned mismatch
+MainWindow.cpp(808): warning C4018: '<' : signed/unsigned mismatch
+MainWindow.cpp(953): warning C4018: '<' : signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(2176): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility(2157) : see declaration of 'std::_Copy_impl'
+          MainWindow.cpp(699) : see reference to function template instantiation '_OutIt std::copy<std::_String_iterator<_Mystr>,TCHAR*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=TCHAR *,
+              _Mystr=std::_String_val<std::_Simple_types<char>>,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>
+          ]
+  Qtproj1.vcxproj -> C:\Users\Wer\Documents\Основная папка\Диплом\Эксперименты\Qtproj1\Win32\Debug\MainWindow.exe
